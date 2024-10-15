@@ -62,6 +62,14 @@ const PriceAndPlanSection = () => {
                                 </span>
                             </div>
                         </div>
+                        <div className="w-full flex flex-col space-y-2">
+                            <div className="w-full bg-[#FFCF97] flex items-center justify-between p-4 xl:p-5 rounded-md hover:scale-105 duration-300">
+                                <span>Database Integration</span>
+                                <span>
+                                    $50
+                                </span>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div className="w-full flex flex-col lg:flex-row items-start lg:items-center space-y-5 lg:space-y-0 lg:space-x-8">
