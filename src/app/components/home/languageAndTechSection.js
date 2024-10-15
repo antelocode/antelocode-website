@@ -73,9 +73,9 @@ const LanguageAndTechSection = () => {
                     </span>
                 </div>
                 <div className="w-full h-fit p-10 flex flex-col justify-center items-center space-y-7 rounded-[1rem] bg-[#ffe9ea] hover:scale-110 hover:cursor-pointer duration-300">
-                    <img src="/img/tech/git.png" className="w-14"/>
+                    <img src="/img/tech/laravel.png" className="w-14"/>
                     <span className="">
-                        Git
+                        Laravel
                     </span>
                 </div>
             </div>
