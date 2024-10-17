@@ -54,17 +54,6 @@ export const dataWork=[
         tech: ["Laravel", "TailwindCSS", "HTML"]
     },
     {
-        id: 5,
-        name:"Link tree",
-        exercise: false,
-        projectNote: "",
-        date: "12/12/23",
-        github : "https://github.com/AryaTjiu",
-        image:"link-tree.jpg",
-        live:"https://aryatjiutanto-links.vercel.app/",
-        tech: ["Next js","TailwindCSS"]
-    },
-    {
         id: 6,
         name:"CornQR",
         exercise: true,
